@@ -4,6 +4,7 @@ Public production images and GIFs for Nitro Nonsense Steam announcements.
 
 ## Releases
 
+- [Steam Build 26347909](releases/26347909/): Home Turf recovery, reliable rival downloads, live podium times, inline loading indicators and confirmed-time confetti.
 - [Steam Build 26342026](releases/26342026/): species-specific tree flowers, smoother banking through compound turns, restored per-difficulty bot racing lines and lighter Jammer bursts.
 - [Steam Build 26315786](releases/26315786/): Steam Voice beta, lobby messages, banked-road portals.
 - [Steam Build 26289805](releases/26289805/): Home Turf actions, rounded cumulus clouds, Cau Cau bridge approaches and flush railway crossings.
