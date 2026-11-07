@@ -1,7 +1,3 @@
-# Nitro Nonsense 1.2.3 announcement images
+# Nitro Nonsense 1.2.3 announcement media
 
-Individually inspected production captures retained from the integrated garage and cactus changes. These static frames illustrate presentation; they are not fresh installed-package captures or proof of motion/performance.
-
-- garage-workspace.png — Four local-player stations retain the roster layout while the winner waits.
-- power-button-chooser.png — The active-power chooser shows the owning player, available buttons and current assignment.
-- cactus-tips.png — Full-detail cactus tips meet the textured stem without the former separate cap overhang.
+Use the inspected images in announcement-v2/. The original garage-workspace.png and power-button-chooser.png are withdrawn preliminary review frames and do not represent the packaged garage. They remain here only to preserve historical links, not as approved announcement media.
