@@ -1,0 +1,22 @@
+{
+  "before-editor.png": {
+    "sha256": "434dfd0bf22649921f0bd3d2f69d1a17a847f2c7b1921627117c03e6938bb202",
+    "bytes": 740019
+  },
+  "after-editor.png": {
+    "sha256": "54b78c3b1a4ef22c2919193fa6bb9aac420c42171a14f724239d57d917fb98cc",
+    "bytes": 737128
+  },
+  "mixed-terrain.png": {
+    "sha256": "0d28470286ae8913d59c721382d696a9d1f86b5d7d8e4237d34b343d6a4e66da",
+    "bytes": 911037
+  },
+  "five-player-race.png": {
+    "sha256": "57c76810cb6850cb9760b0f60040b2684e403e3f9ff90269696b33919be792a1",
+    "bytes": 1268116
+  },
+  "comparison.gif": {
+    "sha256": "5137f5f110a159dd4a8197efd112a60a6fa8a12764f4c3d2a76f5a945dde0e0e",
+    "bytes": 6066116
+  }
+}
