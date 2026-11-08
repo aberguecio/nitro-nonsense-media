@@ -18,5 +18,9 @@
   "comparison.gif": {
     "sha256": "5137f5f110a159dd4a8197efd112a60a6fa8a12764f4c3d2a76f5a945dde0e0e",
     "bytes": 6066116
+  },
+  "third-cycle-race.png": {
+    "sha256": "9ab173872548a174365f402f64284244ccd25312d9217800a374306c3ad64de6",
+    "bytes": 1059982
   }
 }

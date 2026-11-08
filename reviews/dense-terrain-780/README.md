@@ -11,3 +11,5 @@ Actual production Godot Metal captures with five local human profiles. No genera
 Measured uncontended hidden native runs: editor entry 36.980→6.965 seconds; accepted river replacement view 50.783→6.115 seconds. JSON and full validation inventory live in the private implementation PR. Windows/NVIDIA, physical controllers and live Steam remain unverified. Extreme construction is not instantaneous and this does not claim universally hitch-free rendering.
 
 Each exact PNG and final animation sample was individually inspected before publication. Links are pinned to the media commit to preserve existing references.
+
+`third-cycle-race.png`: five-player Race entry after the third bounded edit/garage/race cycle. Normal production fog reduces terrain detail; exact24→26→28→30 layout continuity is established by the JSON checks, not this foggy screenshot. Later Race→Editor re-entry is diagnostic orchestration, not a completed driven race.
